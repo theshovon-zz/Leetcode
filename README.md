@@ -1,2 +1,2 @@
-# Leetcode Programs
+# Leetcode Programs in JAVA and Python
 
